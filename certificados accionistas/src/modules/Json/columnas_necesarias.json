@@ -1,0 +1,27 @@
+{
+    "columnas_permitidas": [
+        "ANO", "MES", "Nombre Mes", "FECHA",
+        "COMPROBANTE", "SECUENCIA", "FUENTE", 
+        "CUENTA", "Nombre Cuenta", "TERCERO", "Nombre Tercero", 
+        "Nombre Tipo Consecutivo", "COMENTARIOS", "DEBITOS", "CREDITOS"
+    ],
+    "retencion": [
+        "TERCERO", "Nombre Tercero", "CREDITOS"
+    ],
+    "columnas_monedas":[
+        "DEBITOS", "CREDITOS", "enero", "febrero", "marzo", "abril", "mayo", "junio", "Suma Enero-Junio",
+        "julio", "agosto", "septiembre", "Suma Julio-Septiembre",
+        "octubre", "noviembre", "diciembre", "Suma Octubre-Diciembre","ReteIca","ReteFuente"
+    ],
+    "columnas_texto":[
+        "TERCERO"
+    ],
+    "columnas_final": [
+        "TERCERO", "Nombre Tercero", "COMPROBANTE", "SECUENCIA",
+        "ReteFuente", "ReteIca", "FUENTE",
+        "enero", "febrero", "marzo", "abril", "mayo", "junio", "Suma Enero-Junio",
+        "julio", "agosto", "septiembre", "Suma Julio-Septiembre",
+        "octubre", "noviembre", "diciembre", "Suma Octubre-Diciembre",
+        "Saldo Final"
+    ]
+}

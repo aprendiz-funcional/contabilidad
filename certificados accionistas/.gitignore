@@ -1,0 +1,9 @@
+**.env
+**/__pycache__/
+**/o365_token.txt
+
+**/Procesados
+
+socios.xlsx
+socios2.xlsx
+**/Documentos
